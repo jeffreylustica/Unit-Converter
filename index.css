@@ -136,5 +136,5 @@ input:checked + .slider:before {
 
 .dark-mode {
     background-color: var(--fc-dark);
-    color: var(--fc-light);
+    color: rgb(255, 255, 255, .9);
 }
